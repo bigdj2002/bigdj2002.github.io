@@ -1,2 +1,2 @@
 # Personlal study blog 
-* Refered from https://zeddios.tistory.com/1222
+* Refered from https://zeddios.tistory.com/
